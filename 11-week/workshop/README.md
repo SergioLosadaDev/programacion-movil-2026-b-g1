@@ -7,7 +7,7 @@
 - CODE_REPO: https://github.com/code-corhuila/team-match.git
 - BASELINE: (team app o starter, y el commit de origen)
 - REFLECTION_DOC: [(URL de su documento de reflexión W11)](https://docs.google.com/document/d/1KGkFhcnPQtb4Xz84oQhkDSDgNPPztEOjZSQRcRJiZGw/edit?usp=sharing)
-- MY_SCREENS: (se escribe en el CP1)
+- MY_SCREENS: Login, Home y My Projects
 <!-- CONFIG-END -->
 
 ## CP0:
